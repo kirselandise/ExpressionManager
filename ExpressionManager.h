@@ -8,9 +8,9 @@
 
 using namespace std;
 
-bool isOperator(char c);
-int getPrecedence(char op);
-bool isBalanced(const string& expression);
-string infixToPostfix(const string& infix);
+bool isOperator(char c); // Checks if the infix expression is using proper operators
+int getPrecedence(char op); // Checks precedence of operators
+bool isBalanced(const string& expression); // Checks if parentheses are balanced
+string infixToPostfix(const string& infix); // Changes input to a postfix expression
 
 #endif // EXPRESSION_MANAGER_H
