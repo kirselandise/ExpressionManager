@@ -2,6 +2,7 @@
 #include <string>
 #include <stack>
 #include <cctype>
+#include "ExpressionManager.h"
 
 using namespace std; // Add the 'using namespace std' declaration
 
