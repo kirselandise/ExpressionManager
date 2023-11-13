@@ -18,6 +18,4 @@ Assumptions:
 
 Output Images: 
 
-![LinkedList](https://github.com/kirselandise/LinkedList/assets/83589688/80d4e399-9093-4c07-a824-cb6657e91678)
-
-https://github.com/kirselandise/ExpressionManager/blob/main/infix.png?raw=true
+![infix](https://github.com/kirselandise/ExpressionManager/assets/83589688/ed370478-3bb3-428e-9af7-9992cfeb628b)
