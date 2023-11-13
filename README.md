@@ -5,16 +5,18 @@ Project Outline:
 Create a an expression manager that properly identifies infix expressions and translates them into postfix expressions
 Create a working queue
 
-Instructions: 
+Instructions Expression Manager: 
 1) Run the project
 2) Enter any infix expression
 3) Once done, click x
-4) Use a working queue
-5) Click x to exit program
+
+Instructions Queue:
+1) Run the project
+2) Implement your queue
+3) Once done, click x
 
 Assumptions: 
-- No assumptions
-
+- Since the queue and infix tasks were extremely different that each have their own cpp and header files.
 
 Output Images: 
 
