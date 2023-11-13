@@ -16,7 +16,7 @@ Instructions Queue:
 3) Once done, click x
 
 Assumptions: 
-- Since the queue and infix tasks were extremely different that each have their own cpp and header files.
+- Since the queue and infix tasks were extremely different that each have their own cpp, header, and output files/images.
 
 Output Images: 
 
